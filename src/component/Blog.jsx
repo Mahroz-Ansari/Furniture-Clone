@@ -13,7 +13,7 @@ const Blog = () => {
                             {
                                 blog.map((cur) => (
                                     <div key={cur.id}>
-                                        <img className='mb-4 rounded-md h-60 w-100' src={cur.icon} alt="" />
+                                        <img className='mb-4 rounded-md h-60 w-120' src={cur.icon} alt="" />
                                         <div className='py-2'>
                                             <h3 className='text-sm font-bold hover:text-secondary cursor-pointer'>{cur.title}</h3>
                                             <p className='text-xs text-gray-500 mb-2'>{cur.description}</p>
