@@ -17,7 +17,7 @@ const Subscribe = () => {
                         </form>
                     </div>
                     <div>
-                        <img className='w-80' src="/news-banner.png" alt="" />
+                        <img className='w-80' src="/assets/news-banner.png" alt="" />
                     </div>
                 </div>
             </div>
