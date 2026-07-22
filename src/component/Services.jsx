@@ -23,7 +23,7 @@ const Services = () => {
                         </div>
                     </div>
                     <div className='service-image'>
-                        <img className='w-110 h-120' src="/assets/wcu-banner.png" alt="" />
+                        <img className='w-110 h-120' src="assets/wcu-banner.png" alt="" />
                     </div>
                 </div>
             </div>
