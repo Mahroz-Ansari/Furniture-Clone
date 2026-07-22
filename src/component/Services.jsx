@@ -1,5 +1,7 @@
 import React from 'react'
 import service from '../assets/assets'
+import wcu from '../assets/wcu-banner.png';
+
 
 const Services = () => {
     // console.log(service)
