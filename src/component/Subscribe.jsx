@@ -1,5 +1,7 @@
 import React from 'react'
 import { LuSend } from "react-icons/lu";
+import news from '../assets/news-banner.png';
+
 
 const Subscribe = () => {
     return (
@@ -17,7 +19,7 @@ const Subscribe = () => {
                         </form>
                     </div>
                     <div>
-                        <img className='w-80' src="assets/news-banner.png" alt="" />
+                        <img className='w-80' src={news} alt="" />
                     </div>
                 </div>
             </div>
